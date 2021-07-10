@@ -1,0 +1,13 @@
+body {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    text-align: center;
+}
+.page-header {
+    color: blue;
+    font-family: cursive;
+}
+#myCanvas {
+    border-style: ridge;
+    background-color: white;
+}
